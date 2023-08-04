@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    flex-wrap: wrap;
+}
+.gute{
+    display: flex;
+    flex-direction: row;
+}
+.gute{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.main-middle-section-2{
+    margin-top: 15px;
+    padding: 30px;
+}
+.main-section-3{
+    justify-content: space-between;   
+}
+.last-section-2{
+    margin-top: 300px;
+}
+.full-bar{
+position: fixed;
+bottom: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
+}
+.play-p{
+    position:fixed;
+    left: 30%;
+    right: 30%;
+    bottom: 0px; 
+}
+.sound{
+    position:fixed;
+    right: 0%;
+    bottom: 0px; 
+}
+.right-section{
+    background: linear-gradient(rgba(144, 174, 167, 1),rgba(0, 0, 0, 1));
+
+}
